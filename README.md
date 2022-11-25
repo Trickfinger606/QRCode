@@ -6,6 +6,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Click here](https://trickfinger606.github.io/QRCode/)
+- Tutorial for adding thumbnail preview: [Click here](https://nickcarmont8.medium.com/how-to-add-a-website-thumbnail-for-sharing-your-html-site-on-social-media-facebook-linkedin-12813f8d2618)
+
 
 ### Built with
 
